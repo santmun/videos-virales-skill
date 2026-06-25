@@ -30,12 +30,12 @@ Costo típico por corrida: **< $0.50 USD** (Apify + Supadata).
 
 La forma más fácil: **pásale este enlace a Claude Code y pídele que lo instale.**
 
-> Instala este skill: https://github.com/<usuario>/videos-virales-skill
+> Instala este skill: https://github.com/santmun/videos-virales-skill
 
 Claude lo clonará en `~/.claude/skills/videos-virales`. Si prefieres a mano:
 
 ```bash
-git clone https://github.com/<usuario>/videos-virales-skill ~/.claude/skills/videos-virales
+git clone https://github.com/santmun/videos-virales-skill ~/.claude/skills/videos-virales
 ```
 
 Reinicia Claude Code (o abre una sesión nueva) para que detecte el skill.
