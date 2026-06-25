@@ -1,0 +1,10 @@
+# datos de corridas (no se versionan)
+scripts/data/
+**/data/
+*.pyc
+__pycache__/
+
+# credenciales (nunca subir)
+config.json
+.env
+.env.*
